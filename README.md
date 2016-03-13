@@ -1,2 +1,7 @@
 # first-repository
-hello
+#include<conio.h>
+#include<stdio.h>
+int main()
+{
+int sum,a,b;
+pri
